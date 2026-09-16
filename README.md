@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![alt text](Project1_Dashboard_Overview.gif)
+![alt text](images/Project1_Dashboard_Overview.gif)
 
 
 Designed for job seekers navigating the tech market, this interactive two-page dashboard translates raw compensation and hiring data into strategic career insights. It pairs an executive-level market summary with an analytical drill-through view for granular, job-title-specific trends.
@@ -33,8 +33,8 @@ Designed for job seekers navigating the tech market, this interactive two-page d
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-![alt text](Project2_Dashboard_Overview.gif)
-(./Project2/README.md)
+![alt text](images/Project2_Dashboard_Overview.gif)
+
 
 
 Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly focused, single-page experience. It's optimized to deliver the most critical insights quickly to job seekers, featuring dynamic interactions and more advanced analytical capabilities.
@@ -51,7 +51,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 * 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
-[➡️ **View Full Project 2 Details (README)**](./Project2/README.md)
+[➡️ **View Full Project 2 Details (README)**](Data_Jobs_v2/README.md)
 
 ---
 
